@@ -1,10 +1,12 @@
-body
+media{
+    body
 {
     margin: 0;
     background-image: url("/cap.jpg");
     flex: auto;
     height: 10px;
     width: fit-content;
+}
 }
 .let{
     color: white;
